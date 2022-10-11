@@ -1,2 +1,2 @@
 #!/bin/bash
-head -n 1 /etc/passwd >> 2-hellofile
+root:x:0:0:root:/root:/bin/bash
